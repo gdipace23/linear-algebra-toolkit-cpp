@@ -170,4 +170,5 @@ See `LICENSE.md` for details.
 
 Pull requests and suggestions are welcome!  
 Feel free to open an [issue](https://github.com/gdipace23/linear-algebra-toolkit-cpp/issues) or create a PR.
+
 ---
